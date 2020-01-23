@@ -6,7 +6,7 @@ date: 2020-12-29 23:59:59 +0800
 categories: 
 ---
 
-分页面：[滚动新闻](/posts/scroll) | **[新增病例和疑似病例](/posts/infections/)** | [治疗情况](/posts/treatment)
+分页面：[滚动新闻](/posts/scroll) / **[新增病例和疑似病例](/posts/infections/)** / [治疗情况](/posts/treatment)
 
 不定时更新，请随时 [刷新本页](javascript:location.reload())
 
