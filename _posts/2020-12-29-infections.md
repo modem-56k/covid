@@ -10,6 +10,8 @@ categories:
 
 不定时更新，请随时 [刷新本页](javascript:location.reload())
 
+在本页更新较慢的时候，请参考：[财新网](http://m.app.caixin.com/m_topic_detail/1473.html)、[丁香园](https://3g.dxy.cn/newh5/view/pneumonia)、[界面](https://www.jiemian.com/special/1420.html)、[新浪新闻](https://news.sina.cn/zt_d/yiqing0121)
+
 ---
 
 ## 2020.1.23
