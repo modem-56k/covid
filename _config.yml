@@ -1,6 +1,6 @@
-title: Texture Theme
+title: 2019 新型冠状病毒肺炎相关信息（非官方整理）
 author: GitHub User
-email: your-email@domain.com
+email: ncov2019@yandex.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 2019 新型冠状病毒肺炎相关信息（非官方整理）
+  tagline: 所有信息在采集时都有外部可访问原始来源，并尽力进行事实核查
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,9 +24,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+#    twitter: thelehhman
+#    github:  thelehhman
+#    linkedIn: in/thelehhman
     rss: rss
  
 
