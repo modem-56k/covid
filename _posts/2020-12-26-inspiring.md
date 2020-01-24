@@ -13,3 +13,8 @@ categories:
 
 ---
 
+## 2020.1.23
+
+**18:55 [新京报：武汉多家医院介绍医护人员奋战情况](https://weibo.com/6124642021/IqQ9Qz6Um)。**
+
+武汉儿童医院86岁老专家董宗祈坚持开电动轮椅，去门诊部坐镇一线，“一辈子不就是为了病人嘛”。武汉第四医院多名医护人员为方便穿防护服，剪掉长头发。[视频](http://n.miaopai.com/media/-HXrwrjpNUm8slTZIh7YPZw~jwFi4hzU)
