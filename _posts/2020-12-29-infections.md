@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2019-新型冠状病毒肺炎资讯（非官方）：新增病例和疑似病例消息
+title: 新增病例和疑似病例
 description: 每个信源尽量仅采取其原创，及作为最早发布来源的消息。
 date: 2020-12-29 23:59:59 +0800
-categories: 
+categories: 2019新型冠状病毒肺炎资讯, 非官方整理
 ---
 
 分页面：[滚动新闻](/posts/scroll) / **[新增病例和疑似病例](/posts/infections/)** / [治疗情况](/posts/treatment) / [深度报道](/posts/deep/) / [正能量](/posts/inspiring)
