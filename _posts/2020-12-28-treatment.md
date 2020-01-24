@@ -6,11 +6,19 @@ date: 2020-12-28 23:59:59 +0800
 categories: 
 ---
 
-分页面：[滚动新闻](/posts/scroll) / [新增病例和疑似病例](/posts/infections/) / **[治疗情况](/posts/treatment)**
+
+
+23 日前的消息，将在有时间之后再不断补充。
+
+分页面：[滚动新闻](/posts/scroll) / [新增病例和疑似病例](/posts/infections/) / **[治疗情况](/posts/treatment)** / [深度报道](/posts/deep/) / [正能量](/posts/inspiring)
 
 不定时更新，请随时 [刷新本页](javascript:location.reload())
 
 在本页更新较慢的时候，请参考：[财新网](http://m.app.caixin.com/m_topic_detail/1473.html)、[丁香园](https://3g.dxy.cn/newh5/view/pneumonia)、[界面](https://www.jiemian.com/special/1420.html)、[新浪新闻](https://news.sina.cn/zt_d/yiqing0121)
+
+---
+
+## https://news.sina.cn/zt_d/yiqing0121)
 
 ---
 
@@ -19,6 +27,10 @@ categories:
 **14:09 [北京1名患者出院](https://weibo.com/2656274875/IqXIm3bqq)**
 
 该女士现居住于北京市大兴区。1月8日从湖北返回后出现发热、头痛、乏力、发热等症状，随后转入北京地坛医院隔离治疗。按程序经疾控中心检测，专家组会诊确诊。入院后经治疗，症状逐渐好转，体温正常，连续监测呼吸道分泌物病毒核酸阴性，符合国家制定的出院标准，今日出院。
+
+08:37 全国新型肺炎已治愈34例
+
+
 
 ## 2020.1.23
 
