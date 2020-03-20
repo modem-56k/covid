@@ -2,19 +2,11 @@
 
 > 最新消息、有用的资源信息请访问：[http://nav.werty.cn/](http://nav.werty.cn/)
 >
-> 以及：[财新网](http://m.app.caixin.com/m_topic_detail/1473.html)、[丁香园](https://3g.dxy.cn/newh5/view/pneumonia)、[界面](https://www.jiemian.com/special/1420.html)、[新浪新闻](https://news.sina.cn/zt_d/yiqing0121)
+> [财新](http://m.app.caixin.com/m_topic_detail/1473.html)、[界面](https://www.jiemian.com/special/1420.html)、[一财](https://m.yicai.com/news/100476965.html)、[丁香](https://3g.dxy.cn/newh5/view/pneumonia)、[梅斯](http://m.medsci.cn/wh.asp)、[解读](https://mp.weixin.qq.com/s/jXf94aQoMG-MFArEZhW5Jg)、[新浪](https://news.sina.cn/zt_d/yiqing0121)、[网易](https://news.163.com/special/epidemic/)、[腾讯](https://news.qq.com/zt2020/page/feiyan.htm)、[知乎](https://www.zhihu.com/special/19681091)、[夸克](https://broccoli.uc.cn/apps/pneumonia/routes/index)、[阿里](https://alihealth.taobao.com/medicalhealth/influenzamap)、[百度](https://voice.baidu.com/act/newpneumonia/newpneumonia)、[生活和故事](https://github.com/Mayandev/nCoV-notes)（[在线预览](https://mayandev.github.io/nCoV-notes/index.html)）
 
 ## 1.24 春节期间记录
 
-[滚动新闻](/0124/1-scroll-news)
-
-[新增病例和疑似病例](/0124/2-infections)
-
-[深度报道](/0124/3-deep)
-
-[治疗情况](/0124/4-treatment)
-
-[正能量](/0124/5-inspiring)
+[滚动新闻](/0124/1-scroll-news)、[新增病例和疑似病例](/0124/2-infections)、[深度报道](/0124/3-deep)、[治疗情况](/0124/4-treatment)、[正能量](/0124/5-inspiring)
 
 ## 华尔街日报
 
@@ -119,3 +111,5 @@
 [武汉医疗资源崩溃期间市民的就诊记录](/misc/citizen-waiting-for-hospital)
 
 [“现在有些人只允许一种声音”](/misc/solo-voice-permitted)
+
+[其余零散记录](/misc/misc)
