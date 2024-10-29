@@ -1,5 +1,7 @@
 # 新冠肺炎信息存档
 
+本页面之前的域名为 2019ncov.github.io ，目前仅做存档用途，不再维护。
+
 > 最新消息、有用的资源信息请访问：[http://nav.werty.cn/](http://nav.werty.cn/)
 >
 > [财新](http://m.app.caixin.com/m_topic_detail/1473.html)、[界面](https://www.jiemian.com/special/1420.html)、[一财](https://m.yicai.com/news/100476965.html)、[丁香](https://3g.dxy.cn/newh5/view/pneumonia)、[梅斯](http://m.medsci.cn/wh.asp)、[解读](https://mp.weixin.qq.com/s/jXf94aQoMG-MFArEZhW5Jg)、[新浪](https://news.sina.cn/zt_d/yiqing0121)、[网易](https://news.163.com/special/epidemic/)、[腾讯](https://news.qq.com/zt2020/page/feiyan.htm)、[知乎](https://www.zhihu.com/special/19681091)、[夸克](https://broccoli.uc.cn/apps/pneumonia/routes/index)、[阿里](https://alihealth.taobao.com/medicalhealth/influenzamap)、[百度](https://voice.baidu.com/act/newpneumonia/newpneumonia)、[生活和故事](https://github.com/Mayandev/nCoV-notes)（[在线预览](https://mayandev.github.io/nCoV-notes/index.html)）
